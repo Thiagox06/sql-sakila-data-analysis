@@ -1,11 +1,11 @@
-# SQL Data Analysis with Sakila Database
+# 🎬 SQL Data Analysis with Sakila Database
 
 This project uses the [Sakila Sample Database](https://dev.mysql.com/doc/sakila/en/) to perform a business analysis for a fictional DVD rental company.  
 The goal is to demonstrate SQL skills by answering key business questions and generating useful insights.
 
 ---
 
-## Business Questions Answered
+## 📊 Business Questions Answered
 
 - What is the total revenue per month?
 - Which movies are rented the most?
@@ -15,7 +15,7 @@ The goal is to demonstrate SQL skills by answering key business questions and ge
 
 ---
 
-## Tools Used
+## 🛠️ Tools Used
 
 - MySQL 8.0
 - Sakila Sample Database
@@ -25,7 +25,7 @@ The goal is to demonstrate SQL skills by answering key business questions and ge
 
 ---
 
-## How to Run
+## 🚀 How to Run
 
 1. Download and install [MySQL Community Server](https://dev.mysql.com/downloads/mysql/).
 2. Download and install the [Sakila Sample Database](https://dev.mysql.com/doc/sakila/en/sakila-installation.html).
@@ -34,7 +34,7 @@ The goal is to demonstrate SQL skills by answering key business questions and ge
 
 ---
 
-## Key Insights
+## 🔍 Key Insights
 
 - Action and Sports are among the most rented film categories.
 - July is the month with the highest revenue.
@@ -42,7 +42,7 @@ The goal is to demonstrate SQL skills by answering key business questions and ge
 
 ---
 
-## Author
+## 👤 Author
 
 **Thiago Ferreira**  
 [LinkedIn](https://www.linkedin.com/in/seu-perfil) | [Website](http://www.thiago-ferreira.com)
